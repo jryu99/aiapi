@@ -1,0 +1,7 @@
+alembic.ini
+myapi.db
+*.pyc
+__pycache__
+migrations
+
+ 
